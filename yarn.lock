@@ -277,11 +277,6 @@ hubot-maps@0.0.3:
   resolved "https://registry.yarnpkg.com/hubot-maps/-/hubot-maps-0.0.3.tgz#c8fc5b0348754e62616d5b99b2bf3904c5ee583c"
   integrity sha1-yPxbA0h1TmJhbVuZsr85BMXuWDw=
 
-hubot-pugme@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/hubot-pugme/-/hubot-pugme-0.1.1.tgz#bbf3b993831516c814f569cf0f05313fb9a31458"
-  integrity sha1-u/O5k4MVFsgU9WnPDwUxP7mjFFg=
-
 hubot-redis-brain@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/hubot-redis-brain/-/hubot-redis-brain-1.0.0.tgz#4626171525c2681852b285a621cc0443620fa0f1"

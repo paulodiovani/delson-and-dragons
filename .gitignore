@@ -1,6 +1,3 @@
 node_modules
 .DS_Store*
 .hubot_history
-
-# we are using yarn
-package-lock.json

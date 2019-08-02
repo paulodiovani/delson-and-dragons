@@ -4,6 +4,10 @@
   "private": true,
   "author": "Paulo Diovani <paulo@diovani.com>",
   "description": "An RPG bot to help with links, dice, etc.",
+  "engines": {
+    "node": "^10.15.1",
+    "npm": "^6.4.1"
+  },
   "dependencies": {
     "hubot": "^3.3.2",
     "hubot-diagnostics": "^1.0.0",
@@ -17,9 +21,5 @@
     "hubot-rules": "^1.0.0",
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.1"
-  },
-  "engines": {
-    "node": "^10.15.1",
-    "npm": "^6.4.1"
   }
 }
